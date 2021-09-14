@@ -1,3 +1,5 @@
 phones list
 apple
 samsung
+redmi
+oppo
